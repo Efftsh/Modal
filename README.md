@@ -7,7 +7,7 @@ This project demonstrates how to create an interactive modal that can be opened 
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
-  <liJavaScript (Vanilla JS)></li>
+  <li>JavaScript (Vanilla JS)</li>
   <li>DOM Manipulation</li>
 </ul>
 
