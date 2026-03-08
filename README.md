@@ -36,8 +36,13 @@ This project demonstrates how to create an interactive modal that can be opened 
 </ul>
 </ol>
 
+<h2>🎥 Preview</h2>
 
 
+
+
+
+https://github.com/user-attachments/assets/843487b6-0e7d-4695-896f-bb4d310c9079
 
 
 
