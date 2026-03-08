@@ -3,10 +3,10 @@ This project demonstrates how to create an interactive modal that can be opened 
 
 <h2> 🛠 Technologies</h2>
 <ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript (Vanilla JS)</li>
-  <li>DOM Manipulation</li>
+   <li><strong>HTML5</strong></li>
+   <li><strong>CSS3</strong></li>
+   <li><strong>JavaScript (Vanilla JS)</strong></li>
+   <li><strong>DOM Manipulation</strong></li>
 </ul>
 
 <h2>✨ Features</h2>
