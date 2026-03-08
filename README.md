@@ -22,16 +22,22 @@ This project demonstrates how to create an interactive modal that can be opened 
 </ul>
 
 <h2>⚙️ The Process</h2>
-<p>
-1. Structured the page layout using HTML with buttons, modal content, and overlay.
-2. Styled the modal and overlay using CSS, including positioning, shadows, and background blur effects.
-3. Implemented functionality with JavaScript DOM manipulation.
-4.Used classList.add() and classList.remove() to toggle the hidden class for showing and hiding the modal.
-5.Added event listeners to handle:
+<ol>
+  <li>1. Structured the page layout using HTML with buttons, modal content, and overlay.</li>
+  <li>2. Styled the modal and overlay using CSS, including positioning, shadows, and background blur effects.</li>
+  <li>3. Implemented functionality with JavaScript DOM manipulation.</li>
+  <li>4.Used classList.add() and classList.remove() to toggle the hidden class for showing and hiding the modal.</li>
+  <li>5.Added event listeners to handle:</li>
 <ul>
   <li>Button clicks to open the modal</li>
   <li>Close button click</li>
   <li>Overlay click</li>
   <li>Keyboard Escape key press</li>
 </ul>
-</p>
+</ol>
+
+
+
+
+
+
